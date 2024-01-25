@@ -1,4 +1,4 @@
-<p>Choose your favorite Web language:</p>
+<p>What is your favorite language:</p>
 
 <form>
   <input type="radio" id="html" name="fav_language" value="HTML">
